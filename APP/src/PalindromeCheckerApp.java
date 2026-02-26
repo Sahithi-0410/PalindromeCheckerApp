@@ -23,7 +23,7 @@ public class PalindromeCheckerApp {
             Scanner scanner = new Scanner(System.in);
 
             System.out.println("=== UC9: Recursive Palindrome Checker ===");
-            System.out.print("Enter a string: ");
+            System.out.print("Enter a String: ");
             String input = scanner.nextLine();
 
             // Normalize input (remove spaces and convert to lowercase)
