@@ -11,7 +11,7 @@ public class PalindromeCheckerApp {
             Scanner scanner = new Scanner(System.in);
             Deque<Character> deque = new LinkedList<>();
 
-            System.out.println("=== Deque-Based Optimized Palindrome Checker ===");
+            System.out.println("=== Deque-Based Optimized --- Palindrome Checker ===");
             System.out.print("Enter a string: ");
             String input = scanner.nextLine();
 
